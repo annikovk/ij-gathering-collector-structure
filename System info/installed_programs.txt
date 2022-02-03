@@ -1,0 +1,42 @@
+# git --version
+git version 2.24.2 (Apple Git-127)
+
+# ls -l  ~/.gradle/daemon
+total 0
+drwxr-xr-x   5 konstantin.annikov  staff   160 Aug 16  2020 2.9
+drwx------   7 konstantin.annikov  staff   224 Oct 13  2020 4.0
+drwx------   7 konstantin.annikov  staff   224 May 31  2020 4.10
+drwx------   9 konstantin.annikov  staff   288 Jul 27  2020 4.4.1
+drwx------   7 konstantin.annikov  staff   224 Jul 16  2020 5.1.1
+drwx------  10 konstantin.annikov  staff   320 Feb  2 20:24 5.2.1
+drwx------   5 konstantin.annikov  staff   160 Apr 14  2021 5.4.1
+drwx------  93 konstantin.annikov  staff  2976 Jan 25 17:28 5.5
+drwx------   7 konstantin.annikov  staff   224 Oct  7  2020 5.5.1
+drwx------   7 konstantin.annikov  staff   224 Jan 31 10:17 5.6.2
+drwx------   7 konstantin.annikov  staff   224 Sep 20 20:17 5.6.4
+drwx------  14 konstantin.annikov  staff   448 Sep 17 17:01 6.0.1
+drwx------  13 konstantin.annikov  staff   416 Jun  4  2020 6.1
+drwx------  29 konstantin.annikov  staff   928 Mar 29  2021 6.1.1
+drwx------  44 konstantin.annikov  staff  1408 Feb 19  2021 6.3
+drwx------   6 konstantin.annikov  staff   192 May 18  2020 6.4
+drwx------   8 konstantin.annikov  staff   256 Aug 18  2020 6.4.1
+drwx------  42 konstantin.annikov  staff  1344 Mar 29  2021 6.5
+drwx------   5 konstantin.annikov  staff   160 Oct  8  2020 6.5.1
+drwx------   7 konstantin.annikov  staff   224 Aug 14  2020 6.6
+drwx------  17 konstantin.annikov  staff   544 Apr 22  2021 6.6.1
+drwx------  37 konstantin.annikov  staff  1184 Apr 20  2021 6.7
+drwx------  13 konstantin.annikov  staff   416 Apr 16  2021 6.7.1
+drwx------  28 konstantin.annikov  staff   896 Feb  2 11:53 6.8
+drwx------  11 konstantin.annikov  staff   352 Feb  1  2021 6.8.1
+drwx------  17 konstantin.annikov  staff   544 May  3  2021 6.8.3
+drwx------   5 konstantin.annikov  staff   160 Nov  4 09:05 6.9.1
+drwx------   7 konstantin.annikov  staff   224 Aug  4  2021 7.0
+drwx------  13 konstantin.annikov  staff   416 Jul 16  2021 7.0.2
+drwx------  29 konstantin.annikov  staff   928 Jan 31 10:59 7.1
+drwx------   5 konstantin.annikov  staff   160 Aug  4  2021 7.1.1
+drwx------  15 konstantin.annikov  staff   480 Feb  2 13:37 7.2
+drwx------   8 konstantin.annikov  staff   256 Jan 12 18:24 7.3.1
+
+# docker ps
+ Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+

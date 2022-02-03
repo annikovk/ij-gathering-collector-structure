@@ -1,0 +1,55 @@
+=== About ===
+Build version: IntelliJ IDEA 2021.3.2 Build: #IU-213.6777.52 January 27, 2022
+Theme: Darcula
+JRE: 11.0.13+7-b1751.25, JetBrains s.r.o.
+JVM: 11.0.13+7-b1751.25, OpenJDK 64-Bit Server VM, JetBrains s.r.o.
+Operating System: Mac OS X 12.1 (aarch64)
+idea.config.path=/Users/user/Library/Application Support/JetBrains/IntelliJIdea2021.3
+idea.system.path=/Users/user/Library/Caches/JetBrains/IntelliJIdea2021.3
+idea.plugins.path=/Users/user/Library/Application Support/JetBrains/IntelliJIdea2021.3/plugins
+idea.log.path=/Users/user/Library/Logs/JetBrains/IntelliJIdea2021.3
+
+=== System ===
+Number of CPU: 10
+Used memory: 873Mb
+Free memory: 230Mb
+Total memory: 1104Mb
+Maximum available memory: 2048Mb
+
+=== Displays ===
+Displays:
+Display 0: 3456x2234; scale: 2.00
+
+=== Plugins ===
+Custom plugins: [Kotlin (213-1.6.10-release-944-IJ6461.79), Guice (213.6461.21), Scala (2021.3.18), Python (213.6777.52), .env files support (2022.1)]
+Disabled plugins:[]
+
+
+=====DEPLOYMENT SETTINGS=====
+Default Server : null
+=====ADDITIONAL SETTINGS=====
+Exclude items by name : .svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc
+Operations logging : DETAILS
+Overwrite up-to-date files : true
+Preserve file timestamps : true
+Delete target items when source do not exist : false
+Create empty directories : false
+Prompt when overwriting or deleting local items : true
+Upload changed files automatically : Never
+Upload external changes : false
+Delete remote files on automatic upload : false
+Override default permissions on files : -1
+Override default permissions on folders : -1
+Warn when uploading over newer file : NONE
+Notify of remote changes : false
+
+=====PERFORMANCE SUMMARY=====
+Filesystem Info:
+File system is case sensitive: false
+File is case sensitive: false
+Are there symlinks: false
+Number of files: 5389
+
+
+=== Code With Me Editors ===
+FOLLOW ME:

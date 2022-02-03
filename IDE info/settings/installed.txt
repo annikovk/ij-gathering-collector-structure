@@ -1,0 +1,11 @@
+Pythonid
+com.intellij.idea.plugin.sap.commerce
+com.intellij.nativeDebug
+com.jetbrains.idea.safepush
+com.jetbrains.intellij.api.watcher
+dev.blachut.svelte.lang
+jetbrains.team.auth
+org.intellij.scala
+org.jetbrains.kotlin
+org.jetbrains.plugins.go
+org.nik.presentation-assistant

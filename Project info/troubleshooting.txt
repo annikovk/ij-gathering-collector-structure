@@ -1,0 +1,8 @@
+=== Project ===
+Project trusted: true
+
+Project Info:
+Number of opened files: 9
+File size (in lines): 285
+File size in characters: 11906
+Number of injections: 0
